@@ -39,6 +39,13 @@ body {
   font-size: 17px;
 }
 
+.headerImage {
+  display: flex;
+}
+.headerImage img {
+  max-width: 100%;
+  flex: 1;
+}
 
 .containerMid {
 /*  background-color: #dcd0cf; */
